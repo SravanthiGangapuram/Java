@@ -1,9 +1,0 @@
-ExcelConversions\HibernateUtil.class
-ExcelConversions\PlayerParser.class
-ExcelConversions\XmlToDbUsngHib.class
-dtos\PlayerDTO.class
-ExcelConversions\XmlToDb.class
-model\Employee.class
-model\Player.class
-ExcelConversions\ExcelToDb.class
-ExcelConversions\TestHibernateInsert.class
