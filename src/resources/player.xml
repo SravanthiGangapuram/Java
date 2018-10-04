@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+    <workbook>
+       <worksheet name="Sheet2">
+      <section startRow="0" endRow="0" />
+            <loop startRow="1" endRow="1" items="items" var="player" varType="model.Player">
+               <section startRow="1" endRow="1">
+                   <mapping row="1" col="0">player.name</mapping>
+                   <mapping row="1" col="1">player.rank</mapping>
+                   <mapping row="1" col="2">player.sports</mapping>
+                   <mapping row="1" col="3">player.country</mapping>
+               </section>
+               <loopbreakcondition>
+                   <rowcheck offset="0">
+             <cellcheck offset="0" />
+           </rowcheck>
+               </loopbreakcondition>
+           </loop>
+       </worksheet>
+    </workbook>

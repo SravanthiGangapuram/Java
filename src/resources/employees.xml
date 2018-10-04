@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<employee>
+   <emp id="bk101">
+      <name>abc</name>
+      <birthDate>1/1/18</birthDate>
+	  <!-- <age>1</age> -->
+      <payment>44.95</payment>
+   </emp>
+   <emp id="bk102">
+      <name>Gambardellafesdf</name>
+      <birthDate>1/1/17</birthDate>
+	  <!-- <age>1</age> -->
+      <payment>1.0</payment>
+   </emp>
+</employee>
